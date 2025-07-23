@@ -4,10 +4,6 @@
 A simple Todo App using the MERN stack with Google OAuth login.  
 Helps users manage their daily tasks securely with authentication.
 
-## 🚀 Live Demo
-
-👉 [Live Demo Link](https://your-deployed-site.com)  
-
 
 ## ⚙️ How It Works
 
